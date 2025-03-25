@@ -2,6 +2,8 @@
 
 This is the **Arduino Day PH 2025** website repository project for the Arduino community in the Philippines.
 
+Deployed Link: https://www.arduinodayphilippines.cc/
+
 ---
 
 ## 📌 Table of Contents
